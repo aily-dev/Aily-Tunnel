@@ -21,8 +21,9 @@
 
 ### 1️⃣ One-Command Install (Any Linux)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aily-dev/Aily-Tunnel/main/Aily-Tunnel/install.sh | sudo bash
-```
+curl -O https://raw.githubusercontent.com/aily-dev/Aily-Tunnel/main/Aily-Tunnel/install.sh```
+```bash
+sudo bash install.sh```
 
 **Works on**: Ubuntu, Debian, CentOS, Fedora, Arch, Alpine, RHEL...
 
