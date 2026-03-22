@@ -18,12 +18,14 @@
 | **Universal** | Tunnels **any TCP/UDP**: VLESS, Trojan, Shadowsocks, SOCKS5, HTTP, WireGuard |
 
 ## 🎯 Quick Start
+```bash
+curl -O https://raw.githubusercontent.com/aily-dev/Aily-Tunnel/main/Aily-Tunnel/install.sh
+```
 
+```bash
+sudo bash install.sh
+```
 ### 1️⃣ One-Command Install (Any Linux)
-```bash
-curl -O https://raw.githubusercontent.com/aily-dev/Aily-Tunnel/main/Aily-Tunnel/install.sh```
-```bash
-sudo bash install.sh```
 
 **Works on**: Ubuntu, Debian, CentOS, Fedora, Arch, Alpine, RHEL...
 
