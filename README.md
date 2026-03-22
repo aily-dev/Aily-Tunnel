@@ -1,4 +1,4 @@
-# 🚀 AilyTunnel v5.0 - Production-Grade Reverse Tunnel
+# 🚀 AilyTunnel v1.0 - Production-Grade Reverse Tunnel
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)](https://golang.org)
 [![GitHub stars](https://img.shields.io/github/stars/aily-dev/Aily-Tunnel?style=social)](https://github.com/aily-dev/Aily-Tunnel/stars)
