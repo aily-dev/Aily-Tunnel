@@ -21,6 +21,9 @@
 ```bash
 curl -O https://raw.githubusercontent.com/aily-dev/Aily-Tunnel/main/Aily-Tunnel/install.sh
 ```
+```bash
+sudo bash set.sh
+```
 
 ```bash
 sudo bash install.sh
